@@ -1,0 +1,9 @@
+[2025-06-16 00:00:52,998 ] 24 root - INFO - Enter the data ingestion method or component
+[2025-06-16 00:00:53,005 ] 27 root - INFO - Read the dataset as dataframe
+[2025-06-16 00:00:53,014 ] 33 root - INFO - Train test slpit initiated
+[2025-06-16 00:00:53,023 ] 40 root - INFO - Ingestion of data is completed
+[2025-06-16 00:00:53,029 ] 73 root - INFO - Read train and test data
+[2025-06-16 00:00:53,029 ] 75 root - INFO - openeing pre-processing object
+[2025-06-16 00:00:53,030 ] 54 root - INFO - Numerical columns:(['writing score', 'reading score'],)
+[2025-06-16 00:00:53,030 ] 55 root - INFO - Categorical columns:['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course']
+[2025-06-16 00:00:53,047 ] 88 root - INFO - Applyig test and train on dataframe

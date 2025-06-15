@@ -1,0 +1,6 @@
+[2025-06-16 00:00:01,502 ] 24 root - INFO - Enter the data ingestion method or component
+[2025-06-16 00:00:01,521 ] 27 root - INFO - Read the dataset as dataframe
+[2025-06-16 00:00:01,537 ] 33 root - INFO - Train test slpit initiated
+[2025-06-16 00:00:01,555 ] 40 root - INFO - Ingestion of data is completed
+[2025-06-16 00:00:01,565 ] 73 root - INFO - Read train and test data
+[2025-06-16 00:00:01,565 ] 75 root - INFO - openeing pre-processing object
